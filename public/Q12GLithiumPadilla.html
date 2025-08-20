@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+    <h2> Q1 2nd Graded Exercise submitted by Sofia Padilla of 9Lithium</h2>
+
+    <label for="mealPrice"> Meal Price: </label>
+    <input id="mealPrice"> <br>
+
+    <label for="tip"> Tip: </label>
+    <input id="tip"> <br>
+
+    <label for="serviceCharge"> Service Charge:</label>
+    <input id="serviceCharge"> <br>
+
+    <button id="button" onclick="totalMeal()">Accept Input</button>
+
+    <script>
+        
+        let totalCost;
+
+        document.getElementById("button").onclick = function totalMeal() {
+              // place your JS code here
+            totalCost = document.getElementById("mealPrice" + "tip" + ( "serviceCharge" / 100 * "mealPrice" )).value;
+            let n = totalCost.toFixed(2);
+            document.write(`${n}`);
+        }
+    </script>
+
+    <p id = "button"> Total cost: </p>
+
+</body>
+</html>
+
+<script>
+    /*Sources:
+        W3Schools.com. (n.d.). https://www.w3schools.com/tags/att_input_type_text.asp
+
+        Bro Code. (2023, October 15). How to accept JavaScript USER INPUT in 5 minutes 💬 [Video]. YouTube. https://www.youtube.com/watch?v=JeXqaKeJSRI
+    */
+</script>
