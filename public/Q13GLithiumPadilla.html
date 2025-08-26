@@ -21,23 +21,26 @@
         function checkIt() {
 
         
-              if (document.getElementById(`guess`) < dNumber)
-                {
-                document.write("Higher");
-                }
+        if (document.getElementById(`guess`).value < dNumber)
+            {
+              document.write("Higher");
+            }
               
-              else
-                {
-                    if (document.getElementById(`guess`) > dNumber)
-                        {document.write("Lower");}
-                    else
-                        {document.write("You are correct!");}
-                };
+        else if (document.getElementById(`guess`).value > dNumber)
+            {document.write("Lower");}
 
-            
+        else
+          {document.write("You are correct!");}
+
         }
     </script>
 
 </body>
 
 </html>
+
+<script>
+    /*Sources:
+        Bro Code. (2023, October 21). If statements in JavaScript are easy 🤔 [Video]. YouTube. https://www.youtube.com/watch?v=PgUXiprlg1k
+    */
+</script>
