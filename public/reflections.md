@@ -29,10 +29,10 @@
 
 # In the activities that were done in class, list at least two that you think were effective and at least two that you think not effective in helping you understand topics in our course and why?**
 
-1. I think an effective activity was our third graded coding task.  It helped me in practicing generating outputs and also inserting outputs in an HTML element.  Aside from this, it refreshed me on the usage of if else statements.  
+1. I think an effective activity was our **third graded coding task.**  It helped me in practicing generating outputs and also inserting outputs in an HTML element.  Aside from this, it refreshed me on the usage of if else statements.  
 
-2. Another effective activity was the 4th graded exercise because we got to utilize the switch statement.  With this simple exercise, I was able to be more confident using the switch statement.  This way, I was able to take on more slightly complicated tasks using it, such as writing cases that included multiple conditions.
+2. Another effective activity was the **4th graded exercise** because we got to utilize the switch statement.  With this simple exercise, I was able to be more confident using the switch statement.  This way, I was able to take on more slightly complicated tasks using it, such as writing cases that included multiple conditions.
 
-1. In my opinion, the 7th graded activity was not effective for me in learning more about functions.  I feel that perhaps we could have had another activity where we coded our own functions while also using the return statement, so that we can be further familiarized with functions, returning them, and calling them.  
+1. In my opinion, the **7th graded activity** was not effective for me in learning more about functions.  I feel that perhaps we could have had another activity where we coded our own functions while also using the return statement, so that we can be further familiarized with functions, returning them, and calling them.  
 
-2. I also found the second graded activity ineffective for me.  I think that I got confused on either computation, or accepting the user input.  I don't think I knew exactly how to approach the task when it came to coding it.
+2. I also found the **second graded activity** ineffective for me.  I think that I got confused on either computation, or accepting the user input.  I don't think I knew exactly how to approach the task when it came to coding it.
