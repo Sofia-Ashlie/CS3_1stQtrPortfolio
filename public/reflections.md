@@ -1,5 +1,5 @@
-**List and describe at least 5 topics that we discussed in class that you know very well**
-**Each description should be at least 1 paragraph with two to five sentences.**
+# List and describe at least 5 topics that we discussed in class that you know very well
+# Each description should be at least 1 paragraph with two to five sentences.
 
 1. **Outputting a browser's console** - the console.log() statement for generating outputs is something I would say I am very familiar with.  We use this statement almost all the time when coding.  It is also very starightforward to use.
 
@@ -11,7 +11,7 @@
 
 5. **Switch statement** - I have encountered this in 8th grade.  I have become more familiar with it this year because of the coding exercises we did.
 
-**List at least 5 topics that you know and can describe but needs further practice/discussion and why.  The why should be per topic listed.**
+# List at least 5 topics that you know and can describe but needs further practice/discussion and why.  The why should be per topic listed.
 
 1. **Loop control structures** - while I am generally familiar with their uses, sometimes, I still make errors in using them.  There are times when I use loops for coding exercises, and once I run my code, the output ends up being infinite, which I do not want.  Perhaps this could be due to writing the wrong conditions for my loop, or even writing contents in the wrong order.
 
@@ -23,12 +23,16 @@
 
 5. **Inserting output inside an HTML element** - I think that I found it confusing to display things with the use of id's.  I believe that I should have taken the time to practice and understand how to use it more.
 
-**Describe on what will be your plan of action in order to help yourself in understanding further the topics listed on the second items.**
+# Describe on what will be your plan of action in order to help yourself in understanding further the topics listed on the second items.**
 
-My plan of action would be practicing coding for different situations.  I can further improve my coding skills by making sure I understand the learning guides, reviewing and redoing past coding exercises, asking help from others, and by consulting the internet to be more informed and familiarized with the topics.  Aside from this, I should also learn from my mistakes.  This way, I would know when to use certain statements in certain situations without a doubt, and hopefully improve my code.
+1. My plan of action would be practicing coding for different situations.  I can further improve my coding skills by making sure I understand the learning guides, reviewing and redoing past coding exercises, asking help from others, and by consulting the internet to be more informed and familiarized with the topics.  Aside from this, I should also learn from my mistakes.  This way, I would know when to use certain statements in certain situations without a doubt, and hopefully improve my code.
 
-**In the activities that were done in class, list at least two that you think were effective and at least two that you think not effective in helping you understand topics in our course and why?**
+# In the activities that were done in class, list at least two that you think were effective and at least two that you think not effective in helping you understand topics in our course and why?**
 
-I think an effective activity was our third graded coding task.  It helped me in practicing generating outputs and also inserting outputs in an HTML element.  Aside from this, it refreshed me on the usage of if else statements.  Another effective activity was the 4th graded exercise because we got to utilize the switch statement.  With this simple exercise, I was able to be more confident using the switch statement.  This way, I was able to take on more slightly complicated tasks using it, such as writing cases that included multiple conditions.
+1. I think an effective activity was our third graded coding task.  It helped me in practicing generating outputs and also inserting outputs in an HTML element.  Aside from this, it refreshed me on the usage of if else statements.  
 
-In my opinion, the 7th graded activity was not effective for me in learning more about functions.  I feel that perhaps we could have had another activity where we coded our own functions while also using the return statement, so that we can be further familiarized with functions, returning them, and calling them.  I also found the second graded activity ineffective for me.  I think that I got confused on either computation, or accepting the user input.  I don't think I knew exactly how to approach the task when it came to coding it.
+2. Another effective activity was the 4th graded exercise because we got to utilize the switch statement.  With this simple exercise, I was able to be more confident using the switch statement.  This way, I was able to take on more slightly complicated tasks using it, such as writing cases that included multiple conditions.
+
+1. In my opinion, the 7th graded activity was not effective for me in learning more about functions.  I feel that perhaps we could have had another activity where we coded our own functions while also using the return statement, so that we can be further familiarized with functions, returning them, and calling them.  
+
+2. I also found the second graded activity ineffective for me.  I think that I got confused on either computation, or accepting the user input.  I don't think I knew exactly how to approach the task when it came to coding it.
